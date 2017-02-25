@@ -1,0 +1,12 @@
+{
+	"name" : "domobserverplugin",
+	"version" : "1.0.0",
+	"description" : "A simply jQuery plugin to watch DOMSubThree changes!",
+	"author": "Fabricio Paulo",
+	"main": "dist/DOMObserverPlugin.min.js",
+	"license" : "MIT",
+	"repository":{
+		"type" : "git",
+		"url": "https://github.com/fabriciopaulo/DOMObserverPlugin"
+	}
+}
