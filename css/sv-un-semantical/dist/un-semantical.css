@@ -1,0 +1,16 @@
+/*
+UNIVERSE SEMANTICAL CSS
+BSD Licence OpenSource
+It's free!
+-------------------------------------
+UNIVERSE SEMANTICAL CSS - MAIN CLASS
+-------------------------------------
+*/
+@import "lib/background-colors.css";
+@import "lib/borders.css";
+@import "lib/colors.css";
+@import "lib/filters.css";
+@import "lib/padding.css";
+@import "lib/positions.css";
+@import "lib/shadows.css";
+@import "lib/text/font.css";
